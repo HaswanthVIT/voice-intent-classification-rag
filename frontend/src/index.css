@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Global base ─────────────────────────────────────────── */
+:root {
+  --bg-base:          #0D0F14;
+  --bg-surface:       #151820;
+  --bg-elevated:      #1E2130;
+  --border-subtle:    #2A2D3E;
+  --text-primary:     #E8EAF6;
+  --text-secondary:   #8B90B0;
+  --neon-blue:        #4FC3F7;
+  --neon-green:       #69F0AE;
+  --neon-amber:       #FFD740;
+  --neon-red:         #FF5252;
+  --neon-purple:      #CE93D8;
+  --speaker-customer: #80DEEA;
+  --speaker-agent:    #BCAAA4;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--bg-base);
+  color: var(--text-primary);
+  font-family: 'DM Sans', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+}
+
+/* ── Scrollbar styling ───────────────────────────────────── */
+::-webkit-scrollbar       { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: var(--bg-base); }
+::-webkit-scrollbar-thumb { background: var(--border-subtle); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-secondary); }
+
+/* ── Monospace utility ──────────────────────────────────── */
+.font-mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+
+/* ── Score display ──────────────────────────────────────── */
+.score-val {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+/* ── Signal bar track ───────────────────────────────────── */
+.signal-track {
+  background: var(--bg-base);
+  border-radius: 9999px;
+  height: 6px;
+  overflow: hidden;
+}
+
+/* ── Card base ──────────────────────────────────────────── */
+.card {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: 0.75rem;
+}
+
+/* ── Tab underline ──────────────────────────────────────── */
+.tab-active {
+  border-bottom: 2px solid var(--neon-blue);
+  color: var(--text-primary);
+}
+
+/* ── Animate in ─────────────────────────────────────────── */
+.animate-fade-in  { animation: fadeIn 0.3s ease-out both; }
+.animate-slide-up { animation: slideUp 0.3s ease-out both; }
+
+@keyframes fadeIn  { from { opacity: 0 } to { opacity: 1 } }
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0);   }
+}
+
+/* ── Intent top-border accent ───────────────────────────── */
+.intent-border-very-strong { border-top: 2px solid #69F0AE; }
+.intent-border-strong      { border-top: 2px solid #CE93D8; }
+.intent-border-mild        { border-top: 2px solid #FFD740; }
+.intent-border-very-mild   { border-top: 2px solid #4FC3F7; }
+.intent-border-no-chance   { border-top: 2px solid #FF5252; }
