@@ -1,0 +1,42 @@
+Call ID: CALL_001
+Language: en
+Customer Speaker: SPEAKER_01
+Sales Speaker: SPEAKER_00
+Tone: Hesitant
+
+=== CUSTOMER FEATURES ===
+Pitch Mean: 253.47
+Speech Rate: 170.13
+Normalized Energy: 0.1639
+Normalized Pause Ratio: 0.1173
+Customer Speech Duration: 96.63
+
+=== SPEAKER TONES ===
+SPEAKER_00 (Sales) -> Tone: Confident | Delta: -19.57
+SPEAKER_01 (Customer) -> Tone: Hesitant | Delta: -22.42
+
+=== TRANSCRIPT ===
+[0.638 - 10.595] SPEAKER_01 (Customer): Hello, Hi ma'am, I saw your ad about your project online. Honestly speaking, it was very impressive. Especially that OMR location. It's superb.
+[11.523 - 17.024] SPEAKER_00 (Sales): Thank you, sir. Actually, it's okay to know MR. Are you currently looking to buy a property?
+[17.969 - 27.892] SPEAKER_01 (Customer): Yes, I am definitely watching it. Actually, I have been planning for a long time. And when I saw it in your project visuals, I got interested. The layout is very clean. Not congested at all.
+[31.975 - 41.105] SPEAKER_01 (Customer): Was it 2BHK or 3BHK? Mostly 2BHK. For family it's enough. And I saw that balcony space. It was very nice. It gave an open feel.
+[42.37 - 50.335] SPEAKER_00 (Sales): Oh yes sir. All our 2 BHK units have spacious balconies actually. We have focused a lot on ventilation and natural light sir.
+[50.605 - 59.853] SPEAKER_01 (Customer): Exactly! That's what I also noticed. Nowadays, many flats don't have that open feel, but you have maintained it well in your project.
+[60.376 - 66.67] SPEAKER_00 (Sales): Thank you so much sir. Would you like to visit the site once sir? Actually that will give you a better idea.
+[67.025 - 74.483] SPEAKER_01 (Customer): We can definitely do it. Actually, I am nearby. I thought of planning it in the coming weekend.
+[75.428 - 78.247] SPEAKER_01 (Customer): Oh, that's perfect sir. I can align the site for you.
+[79.478 - 87.258] SPEAKER_01 (Customer): Super. Before that, tell me some details like price range, EMI options and handover time.
+[88.152 - 100.707] SPEAKER_00 (Sales): Oh, sure sir. The price for 2 BHK sacks is around 55 lakhs sir. Actually, we also have a tie-up with banks or EMA options sir.
+[109.516 - 113.785] SPEAKER_00 (Sales): Depending upon the unit and floor, it may vary slightly.
+[114.882 - 123.269] SPEAKER_01 (Customer): Okay, actually mom, I'll be honest with you. I really like the project, genuinely, but my budget is a bit limited.
+[124.484 - 127.285] SPEAKER_00 (Sales): Okay. May I know the budget ranges?
+[127.977 - 135.301] SPEAKER_01 (Customer): Max to max, I have planned 35 to 40 lakhs, so it will be difficult if I stretch more than that.
+[136.077 - 142.034] SPEAKER_00 (Sales): Okay sir, I understand. We can explore the loan options if that helps you, sir.
+[143.08 - 150.742] SPEAKER_01 (Customer): No, no. I am hesitating to take a loan. I already have a few commitments. So, I decided not to take any risk.
+[151.703 - 154.606] SPEAKER_00 (Sales): Okay, all nature. That's completely understandable.
+[160.141 - 165.271] SPEAKER_01 (Customer): The project is very good. If the budget is adjusted, I will definitely consider it.
+[165.963 - 171.97] SPEAKER_00 (Sales): Sure sir. I will keep you updated if there are any offers or pricing decisions.
+[171.97 - 177.168] SPEAKER_01 (Customer): Yes, yes, please. That would be helpful. Maybe if the situation improves in the future, we can definitely revisit it.
+[177.134 - 179.986] SPEAKER_00 (Sales): Okay, sir. Definitely, sir.
+[180.644 - 185.251] SPEAKER_01 (Customer): Thanks a lot, ma'am. You explained the details clearly. Really appreciate it.
+[187.917 - 189.925] SPEAKER_01 (Customer): Okay, ma'am. I'll stay in touch with you. Thank you.

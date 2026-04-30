@@ -1,0 +1,100 @@
+{
+  "call_id": "CALL_001",
+  "customer_speaker_id": "SPEAKER_01",
+  "customer_transcript": "Hello, Hi ma'am, I saw your ad about your project online. Honestly speaking, it was very impressive. Especially that OMR location. It's superb. Yes, I am definitely watching it. Actually, I have been planning for a long time. And when I saw it in your project visuals, I got interested. The layout is very clean. Not congested at all. Was it 2BHK or 3BHK? Mostly 2BHK. For family it's enough. And I saw that balcony space. It was very nice. It gave an open feel. Exactly! That's what I also noticed. Nowadays, many flats don't have that open feel, but you have maintained it well in your project. We can definitely do it. Actually, I am nearby. I thought of planning it in the coming weekend. Oh, that's perfect sir. I can align the site for you. Super. Before that, tell me some details like price range, EMI options and handover time. Okay, actually mom, I'll be honest with you. I really like the project, genuinely, but my budget is a bit limited. Max to max, I have planned 35 to 40 lakhs, so it will be difficult if I stretch more than that. No, no. I am hesitating to take a loan. I already have a few commitments. So, I decided not to take any risk. The project is very good. If the budget is adjusted, I will definitely consider it. Yes, yes, please. That would be helpful. Maybe if the situation improves in the future, we can definitely revisit it. Thanks a lot, ma'am. You explained the details clearly. Really appreciate it. Okay, ma'am. I'll stay in touch with you. Thank you.",
+  "retrieved_context": [
+    {
+      "id": "call_101",
+      "type": "similar_call",
+      "intent_label": "High",
+      "text": "Customer discussed budget around 50 lakhs, asked for site visit, and wanted to buy within 2 months. Final intent: High."
+    },
+    {
+      "id": "call_103",
+      "type": "similar_call",
+      "intent_label": "Low",
+      "text": "Customer casually explored location and amenities with no budget or visit intent. Final intent: Low."
+    },
+    {
+      "id": "call_102",
+      "type": "similar_call",
+      "intent_label": "Medium",
+      "text": "Customer asked about loan and availability but did not commit to visit. Final intent: Medium."
+    },
+    {
+      "id": "rule_003",
+      "type": "business_rule",
+      "intent_label": "Low",
+      "text": "If customer only casually explores amenities or location without budget or visit intent, lower intent confidence."
+    },
+    {
+      "id": "rule_001",
+      "type": "business_rule",
+      "intent_label": "High",
+      "text": "If customer explicitly mentions budget, site visit, or immediate purchase timeline, raise intent confidence."
+    },
+    {
+      "id": "rule_002",
+      "type": "business_rule",
+      "intent_label": "Medium",
+      "text": "If customer asks about loan or availability but avoids commitment, assign medium intent."
+    }
+  ],
+  "context_scores": {
+    "budget": 1.0,
+    "loan": 1.0,
+    "visit": 1.0,
+    "keyword": 0.8,
+    "question": 1.0,
+    "engagement": 0.9
+  },
+  "llm_holistic_score": 0.65,
+  "state_vector": [
+    1.0,
+    1.0,
+    1.0,
+    0.6,
+    1.0,
+    0.7679,
+    0.2,
+    0.8,
+    1.0,
+    1.0,
+    1.0,
+    0.8,
+    1.0,
+    0.9,
+    0.6396
+  ],
+  "rl_weights_used": {
+    "budget": 0.16746987402439117,
+    "visit": 0.153334379196167,
+    "loan": 0.15773163735866547,
+    "keyword": 0.1653532087802887,
+    "question": 0.16872523725032806,
+    "engagement": 0.13738565146923065,
+    "tone": 0.03,
+    "sentiment": 0.02
+  },
+  "signal_score": 0.8436,
+  "intent_score": 0.7178,
+  "intent_class": "High Intent",
+  "confidence": 0.7178,
+  "reasoning": [
+    "The customer showed high initial interest, praising the project's location, layout, and features, and expressed a long-term plan to buy a property.",
+    "The customer committed to a site visit for the coming weekend and actively asked for specific details regarding price range, EMI options, and handover time, indicating serious intent.",
+    "A significant budget mismatch (customer's max 35-40 lakhs vs. project's 55 lakhs) combined with an explicit refusal to take a loan due to existing commitments presents a major obstacle for proceeding with this specific project.",
+    "Despite the budget and loan issues, the customer expressed continued strong interest in the project itself ('If the budget is adjusted, I will definitely consider it') and agreed to be updated on offers, maintaining a warm lead for future opportunities."
+  ],
+  "evidence_refs": [
+    "call_101",
+    "rule_001",
+    "rule_002",
+    "transcript_segments"
+  ],
+  "learning_insight": [
+    "The agent effectively captured customer interest and secured a site visit commitment, demonstrating strong initial sales progress.",
+    "The significant budget mismatch and firm loan refusal for the current project highlight the importance of either having alternative properties within the customer's stated budget or identifying potential future offers/discounts to re-engage.",
+    "Even when immediate closure on a specific property is unlikely due to budget constraints, maintaining an open line of communication for future offers or different projects can retain a highly engaged and motivated lead."
+  ]
+}
