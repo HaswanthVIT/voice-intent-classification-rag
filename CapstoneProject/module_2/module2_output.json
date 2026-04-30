@@ -1,0 +1,295 @@
+{
+  "call_id": "CALL_001",
+  "transcript": "Hello. Hi, ma'am. I saw your ad about Praveet. Is it online? Honestly speaking, it was very impressive, especially that OMR location. Actually, it's located in Noemar. Are you currently looking to buy a property? This is definitely part of the plan. I have been planning for a long time, and when I saw your project visuals, I got interested. The layout is very clean. Not congested at all. Oh, glad to hear that sir. Do be as healthy as you can at this. Mostly two words can run, but for family it's enough. And I saw that balcony space. It was very nice. It gave an open feel. Oh yes sir, all our 2 BHK units have spacious balconies actually. We have focused a lot on ventilation and natural light sir. Translate all spoken content into clear English. If the speaker mixes Indian words like Hindi or Tamil, convert the full meaning into natural English. That open feeling is not there, but you have maintained it well in your project. Thank you so much, sir. Would you like to visit the site once? Actually, that will give you a better idea. You can definitely do that. Actually, I live nearby. I thought of planning it in the coming weekend. Oh, that's perfect sir. I can add in the site for you. Before that, I would like to say a few things in detail. Price range, EMI options, and handover time. The price of 2 BHK tax is around 55 lakhs. Actually, we have also tie-ups with banks for the email option, sir. If so, depending upon the unit and floor, it may vary slightly. Okay, actually mom, no. Translate all spoken content into clear English. If the speaker mixes English with Hindi or Tamil, convert the full meaning into natural English. May I know the budget ranges? Max to max, I have planned 35 to 40 lakhs. It is more difficult to stretch than that. Okay, sir, I understand. We can explore the loan options if that helps you. No, no. I am heading to take a loan now. There are already few commitments, so do not take any risks. Okay, all natural. That's completely understandable. If the budget is a bit larger, definitely consider putting it on. I will keep you updated if there are any offers or questions. Yes, yes, please. That would be helpful. Maybe if the situation improves in the future, we can revisit it. Thanks a lot, ma'am. You explained all the details clearly. Okay, ma'am. I'll stay in touch with you. Thank you.",
+  "language": "en",
+  "duration_sec": 191.87,
+  "clean_transcript": "hello hi ma am i saw your ad about praveet is it online? honestly speaking it was very impressive especially that omr location it s located in noemar are you currently looking to buy a property? this is definitely part of the plan i have been planning for a long time and when i saw your project visuals i got interested the layout is very clean not congested at all oh glad to hear that sir do be as healthy as you can at this mostly two words can run but for family it s enough and i saw that balcony space it was very nice it gave an open feel oh yes sir all our 2 bhk units have spacious balconies we have focused a lot on ventilation and natural light sir translate all spoken content into clear english if the speaker mixes indian words hindi or tamil convert the full meaning into natural english that open feeling is not there but you have maintained it well in your project thank you so much sir would you to visit the site once? that will give you a better idea you can definitely do that i live nearby i thought of planning it in the coming weekend oh that s perfect sir i can add in the site for you before that i would to say a few things in detail price range emi options and handover time the price of 2 bhk tax is around 55 lakhs we have also tie ups with banks for the email option sir if so depending upon the unit and floor it may vary slightly okay mom no translate all spoken content into clear english if the speaker mixes english with hindi or tamil convert the full meaning into natural english may i know the budget ranges? max to max i have planned 35 to 40 lakhs it is more difficult to stretch than that okay sir i understand we can explore the loan options if that helps you no no i am heading to take a loan now there are already few commitments so do not take any risks okay all natural that s completely understandable if the budget is a bit larger definitely consider putting it on i will keep you updated if there are any offers or questions yes yes please that would be helpful maybe if the situation improves in the future we can revisit it thanks a lot ma am you explained all the details clearly okay ma am i ll stay in touch with you thank you",
+  "keywords": [
+    "budget",
+    "loan",
+    "visit"
+  ],
+  "keyword_count": 3,
+  "has_budget": 1,
+  "has_loan": 1,
+  "has_visit": 1,
+  "question_count": 21,
+  "sentiment": "positive",
+  "engagement_score": 0.7679,
+  "keyword_norm": 0.6,
+  "question_norm": 1.0,
+  "duration_norm": 0.6396,
+  "transcript_segments": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.638,
+      "end": 4.638,
+      "text": "Hello. Hi, ma'am. I saw your ad about Praveet. Is it online?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 5.093,
+      "end": 9.093,
+      "text": "Honestly speaking, it was very impressive, especially that OMR location."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 13.21,
+      "end": 17.024,
+      "text": "Actually, it's located in Noemar. Are you currently looking to buy a property?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 17.969,
+      "end": 19.505,
+      "text": "This is definitely part of the plan."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 19.808,
+      "end": 24.5,
+      "text": "I have been planning for a long time, and when I saw your project visuals, I got interested."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 24.938,
+      "end": 27.892,
+      "text": "The layout is very clean. Not congested at all."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 28.87,
+      "end": 30.794,
+      "text": "Oh, glad to hear that sir."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 31.975,
+      "end": 33.73,
+      "text": "Do be as healthy as you can at this."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 34.085,
+      "end": 36.835,
+      "text": "Mostly two words can run, but for family it's enough."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 37.139,
+      "end": 41.105,
+      "text": "And I saw that balcony space. It was very nice. It gave an open feel."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 42.37,
+      "end": 50.335,
+      "text": "Oh yes sir, all our 2 BHK units have spacious balconies actually. We have focused a lot on ventilation and natural light sir."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 51.871,
+      "end": 55.398,
+      "text": "Translate all spoken content into clear English. If the speaker mixes Indian words like Hindi or Tamil, convert the full meaning into natural English."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 55.702,
+      "end": 59.853,
+      "text": "That open feeling is not there, but you have maintained it well in your project."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 60.376,
+      "end": 61.878,
+      "text": "Thank you so much, sir."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 62.317,
+      "end": 65.945,
+      "text": "Would you like to visit the site once? Actually, that will give you a better idea."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 67.025,
+      "end": 68.56,
+      "text": "You can definitely do that."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 68.864,
+      "end": 72.121,
+      "text": "Actually, I live nearby."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 72.475,
+      "end": 74.483,
+      "text": "I thought of planning it in the coming weekend."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 75.428,
+      "end": 78.247,
+      "text": "Oh, that's perfect sir. I can add in the site for you."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 79.478,
+      "end": 83.849,
+      "text": "Before that, I would like to say a few things in detail."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 84.187,
+      "end": 87.258,
+      "text": "Price range, EMI options, and handover time."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 89.603,
+      "end": 93.974,
+      "text": "The price of 2 BHK tax is around 55 lakhs."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 94.582,
+      "end": 100.707,
+      "text": "Actually, we have also tie-ups with banks for the email option, sir."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 109.516,
+      "end": 113.785,
+      "text": "If so, depending upon the unit and floor, it may vary slightly."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 114.882,
+      "end": 116.587,
+      "text": "Okay, actually mom, no."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 117.093,
+      "end": 123.269,
+      "text": "Translate all spoken content into clear English. If the speaker mixes English with Hindi or Tamil, convert the full meaning into natural English."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 125.598,
+      "end": 127.285,
+      "text": "May I know the budget ranges?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 127.977,
+      "end": 132.938,
+      "text": "Max to max, I have planned 35 to 40 lakhs."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 133.343,
+      "end": 135.301,
+      "text": "It is more difficult to stretch than that."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 136.077,
+      "end": 138.035,
+      "text": "Okay, sir, I understand."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 138.457,
+      "end": 142.034,
+      "text": "We can explore the loan options if that helps you."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 143.08,
+      "end": 147.029,
+      "text": "No, no. I am heading to take a loan now."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 147.383,
+      "end": 150.742,
+      "text": "There are already few commitments, so do not take any risks."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 151.703,
+      "end": 154.606,
+      "text": "Okay, all natural. That's completely understandable."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 162.048,
+      "end": 165.271,
+      "text": "If the budget is a bit larger, definitely consider putting it on."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 167.617,
+      "end": 171.43,
+      "text": "I will keep you updated if there are any offers or questions."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 171.97,
+      "end": 177.168,
+      "text": "Yes, yes, please. That would be helpful. Maybe if the situation improves in the future, we can revisit it."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 180.644,
+      "end": 183.496,
+      "text": "Thanks a lot, ma'am. You explained all the details clearly."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 187.917,
+      "end": 189.925,
+      "text": "Okay, ma'am. I'll stay in touch with you. Thank you."
+    }
+  ],
+  "speakers_nlp": {
+    "SPEAKER_01": {
+      "keywords": [
+        "budget",
+        "loan",
+        "visit"
+      ],
+      "keyword_count": 3,
+      "has_budget": 1,
+      "has_loan": 1,
+      "has_visit": 1,
+      "question_count": 16,
+      "sentiment": "positive",
+      "keyword_norm": 0.6,
+      "question_norm": 1.0
+    },
+    "SPEAKER_00": {
+      "keywords": [
+        "budget",
+        "loan",
+        "visit"
+      ],
+      "keyword_count": 3,
+      "has_budget": 1,
+      "has_loan": 1,
+      "has_visit": 1,
+      "question_count": 5,
+      "sentiment": "positive",
+      "keyword_norm": 0.6,
+      "question_norm": 1.0
+    }
+  },
+  "tone": "Hesitant",
+  "pitch_mean": 250.61,
+  "speech_rate": 206.34,
+  "normalized_energy": 0.1743,
+  "normalized_pause_ratio": 0.0521
+}

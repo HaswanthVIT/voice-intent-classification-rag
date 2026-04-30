@@ -1,0 +1,175 @@
+{
+  "call_id": "CALL_001",
+  "transcript": "Hello, Hi ma'am, I saw your ad about your project online. Honestly speaking, it was very impressive. Especially that OMR location. It's superb. Thank you, sir. Actually, it's okay to know MR. Are you currently looking to buy a property? Yes, I am definitely watching it. Actually, I have been planning for a long time. And when I saw it in your project visuals, I got interested. The layout is very clean. Not congested at all. Was it 2BHK or 3BHK? Mostly 2BHK. For family it's enough. And I saw that balcony space. It was very nice. It gave an open feel. Oh yes sir. All our 2 BHK units have spacious balconies actually. We have focused a lot on ventilation and natural light sir. Exactly! That's what I also noticed. Nowadays, many flats don't have that open feel, but you have maintained it well in your project. Thank you so much sir. Would you like to visit the site once sir? Actually that will give you a better idea. We can definitely do it. Actually, I am nearby. I thought of planning it in the coming weekend. Oh, that's perfect sir. I can align the site for you. Super. Before that, tell me some details like price range, EMI options and handover time. Oh, sure sir. The price for 2 BHK sacks is around 55 lakhs sir. Actually, we also have a tie-up with banks or EMA options sir. Depending upon the unit and floor, it may vary slightly. Okay, actually mom, I'll be honest with you. I really like the project, genuinely, but my budget is a bit limited. Okay. May I know the budget ranges? Max to max, I have planned 35 to 40 lakhs, so it will be difficult if I stretch more than that. Okay sir, I understand. We can explore the loan options if that helps you, sir. No, no. I am hesitating to take a loan. I already have a few commitments. So, I decided not to take any risk. Okay, all nature. That's completely understandable. The project is very good. If the budget is adjusted, I will definitely consider it. Sure sir. I will keep you updated if there are any offers or pricing decisions. Yes, yes, please. That would be helpful. Maybe if the situation improves in the future, we can definitely revisit it. Okay, sir. Definitely, sir. Thanks a lot, ma'am. You explained the details clearly. Really appreciate it. Okay, ma'am. I'll stay in touch with you. Thank you.",
+  "language": "en",
+  "pitch_mean": 253.47,
+  "speech_rate": 170.13,
+  "normalized_energy": 0.1639,
+  "normalized_pause_ratio": 0.1173,
+  "customer_speech_duration_sec": 96.63,
+  "tone": "Hesitant",
+  "duration_sec": 191.87,
+  "speakers": {
+    "SPEAKER_00": {
+      "energy_delta": -19.57,
+      "tone": "Confident"
+    },
+    "SPEAKER_01": {
+      "energy_delta": -22.42,
+      "tone": "Hesitant"
+    }
+  },
+  "transcript_segments": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 0.638,
+      "end": 10.595,
+      "text": "Hello, Hi ma'am, I saw your ad about your project online. Honestly speaking, it was very impressive. Especially that OMR location. It's superb."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 11.523,
+      "end": 17.024,
+      "text": "Thank you, sir. Actually, it's okay to know MR. Are you currently looking to buy a property?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 17.969,
+      "end": 27.892,
+      "text": "Yes, I am definitely watching it. Actually, I have been planning for a long time. And when I saw it in your project visuals, I got interested. The layout is very clean. Not congested at all."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 31.975,
+      "end": 41.105,
+      "text": "Was it 2BHK or 3BHK? Mostly 2BHK. For family it's enough. And I saw that balcony space. It was very nice. It gave an open feel."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 42.37,
+      "end": 50.335,
+      "text": "Oh yes sir. All our 2 BHK units have spacious balconies actually. We have focused a lot on ventilation and natural light sir."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 50.605,
+      "end": 59.853,
+      "text": "Exactly! That's what I also noticed. Nowadays, many flats don't have that open feel, but you have maintained it well in your project."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 60.376,
+      "end": 66.67,
+      "text": "Thank you so much sir. Would you like to visit the site once sir? Actually that will give you a better idea."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 67.025,
+      "end": 74.483,
+      "text": "We can definitely do it. Actually, I am nearby. I thought of planning it in the coming weekend."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 75.428,
+      "end": 78.247,
+      "text": "Oh, that's perfect sir. I can align the site for you."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 79.478,
+      "end": 87.258,
+      "text": "Super. Before that, tell me some details like price range, EMI options and handover time."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 88.152,
+      "end": 100.707,
+      "text": "Oh, sure sir. The price for 2 BHK sacks is around 55 lakhs sir. Actually, we also have a tie-up with banks or EMA options sir."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 109.516,
+      "end": 113.785,
+      "text": "Depending upon the unit and floor, it may vary slightly."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 114.882,
+      "end": 123.269,
+      "text": "Okay, actually mom, I'll be honest with you. I really like the project, genuinely, but my budget is a bit limited."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 124.484,
+      "end": 127.285,
+      "text": "Okay. May I know the budget ranges?"
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 127.977,
+      "end": 135.301,
+      "text": "Max to max, I have planned 35 to 40 lakhs, so it will be difficult if I stretch more than that."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 136.077,
+      "end": 142.034,
+      "text": "Okay sir, I understand. We can explore the loan options if that helps you, sir."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 143.08,
+      "end": 150.742,
+      "text": "No, no. I am hesitating to take a loan. I already have a few commitments. So, I decided not to take any risk."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 151.703,
+      "end": 154.606,
+      "text": "Okay, all nature. That's completely understandable."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 160.141,
+      "end": 165.271,
+      "text": "The project is very good. If the budget is adjusted, I will definitely consider it."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 165.963,
+      "end": 171.97,
+      "text": "Sure sir. I will keep you updated if there are any offers or pricing decisions."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 171.97,
+      "end": 177.168,
+      "text": "Yes, yes, please. That would be helpful. Maybe if the situation improves in the future, we can definitely revisit it."
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 177.134,
+      "end": 179.986,
+      "text": "Okay, sir. Definitely, sir."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 180.644,
+      "end": 185.251,
+      "text": "Thanks a lot, ma'am. You explained the details clearly. Really appreciate it."
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 187.917,
+      "end": 189.925,
+      "text": "Okay, ma'am. I'll stay in touch with you. Thank you."
+    }
+  ],
+  "speaker_roles": {
+    "SPEAKER_00": "Sales",
+    "SPEAKER_01": "Customer"
+  },
+  "customer_speaker": "SPEAKER_01",
+  "sales_speaker": "SPEAKER_00",
+  "role_label_confidence": "high"
+}
